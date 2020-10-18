@@ -2,12 +2,17 @@ Riolu;22;1;bermellon
 Riolu;25;3;bermellon
 Bulbasaur;29;15;verde
 Bulbasaur;29;18;verde
+Cyndaquil;30;12;negro
 Lanturn;50;2;bermellon
 Croagunk;50;76;plateado
+Magikarp;12;30;rojo
 Feebas;18;79;blanquirrojo
+Cyndaquil;60;20;negro
 Dratini;18;73;azul
 Scyther;42;21;verde
+Magikarp;15;13;rojo
 Geodude;19;49;marron
 Ninjask;14;55;rojo
 Rampardos;42;66;gris
 Jolteon;38;62;rojo
+Magikarp;10;3;rojo
